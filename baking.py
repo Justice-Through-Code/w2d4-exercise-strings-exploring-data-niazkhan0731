@@ -54,7 +54,7 @@ confirm_ingredients()
 
 
 def favorite_bake():  # User Input/Type conversion
-    # The beauty of these ingredients is that you can make tons with them. 
+    # The beauty of these ingredients is that you can make tons with them..
     # Let's get some user input to decide what to bake!
 
     # 3.1 Create a variable called `baked_good`, that saves the user's input to the question:
